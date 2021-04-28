@@ -5,4 +5,4 @@ You can use white StarUML,
             Pencil,
             https://app.diagrams.net/
             
-![avatar](https://pakydu.github.io/image/4.jfif)
+![avatar](https://pakydu.github.io/image/2.jpg)

@@ -1,12 +1,12 @@
 基金模拟项目来源于<C++程序员UML实务手册>，
 里面包含了常用的图类：
-*类图
+* 类图
 ![主类图](https://pakydu.github.io/image/uml/主类图.png)
-*序列图
+* 序列图
 ![交互序列图](https://pakydu.github.io/image/uml/交互序列图.png)
-*用例图
+* 用例图
 ![主用例图](https://pakydu.github.io/image/uml/主用例图.png)
-*状态图
+* 状态图
 ![状态图](https://pakydu.github.io/image/uml/状态图.png)
-*活动图
+* 活动图
 ![活动图](https://pakydu.github.io/image/uml/活动图.png)

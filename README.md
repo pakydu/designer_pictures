@@ -5,4 +5,4 @@ You can use white StarUML,
             Pencil,
             https://app.diagrams.net/
             
-![avatar](https://pakydu.github.io/image/2.jpg)
+![浏览器内核分类](https://pakydu.github.io/image/css-selector.jpg)
